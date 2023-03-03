@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/scenery-parallex/static/css/main.75816ae5.css",
-    "main.js": "/scenery-parallex/static/js/main.be32805a.js",
-    "static/media/mountains_front.png": "/scenery-parallex/static/media/mountains_front.25a10186b8e276488f43.png",
-    "static/media/water.png": "/scenery-parallex/static/media/water.68f8b76cbfc69bce7139.png",
-    "static/media/mountains_behind.png": "/scenery-parallex/static/media/mountains_behind.38e14b5c40238f9f4c60.png",
-    "static/media/stars.png": "/scenery-parallex/static/media/stars.fb95e3d1302794752cfa.png",
-    "static/media/moon.png": "/scenery-parallex/static/media/moon.ab81903c55e2dd21511b.png",
-    "static/media/cloud_left.png": "/scenery-parallex/static/media/cloud_left.479fe6efcf34592dd32f.png",
-    "static/media/cloud_right.png": "/scenery-parallex/static/media/cloud_right.245262aaff926f5d0685.png",
-    "index.html": "/scenery-parallex/index.html",
-    "main.75816ae5.css.map": "/scenery-parallex/static/css/main.75816ae5.css.map",
-    "main.be32805a.js.map": "/scenery-parallex/static/js/main.be32805a.js.map"
+    "main.css": "/scenery-parallax/static/css/main.75816ae5.css",
+    "main.js": "/scenery-parallax/static/js/main.ac06b717.js",
+    "static/media/mountains_front.png": "/scenery-parallax/static/media/mountains_front.25a10186b8e276488f43.png",
+    "static/media/water.png": "/scenery-parallax/static/media/water.68f8b76cbfc69bce7139.png",
+    "static/media/mountains_behind.png": "/scenery-parallax/static/media/mountains_behind.38e14b5c40238f9f4c60.png",
+    "static/media/stars.png": "/scenery-parallax/static/media/stars.fb95e3d1302794752cfa.png",
+    "static/media/moon.png": "/scenery-parallax/static/media/moon.ab81903c55e2dd21511b.png",
+    "static/media/cloud_left.png": "/scenery-parallax/static/media/cloud_left.479fe6efcf34592dd32f.png",
+    "static/media/cloud_right.png": "/scenery-parallax/static/media/cloud_right.245262aaff926f5d0685.png",
+    "index.html": "/scenery-parallax/index.html",
+    "main.75816ae5.css.map": "/scenery-parallax/static/css/main.75816ae5.css.map",
+    "main.ac06b717.js.map": "/scenery-parallax/static/js/main.ac06b717.js.map"
   },
   "entrypoints": [
     "static/css/main.75816ae5.css",
-    "static/js/main.be32805a.js"
+    "static/js/main.ac06b717.js"
   ]
 }
